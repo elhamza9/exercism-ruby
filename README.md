@@ -1,2 +1,2 @@
 # exercism-ruby
-Learn ruby in exercism.org
+Learn ruby concepts & syntax in [exercism.org](https://exercism.org/)
